@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Siren531
+- 👋 Hi, I’m Jacob Rift
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Python3
 - 💞️ I’m looking to collaborate on nothing yet.
